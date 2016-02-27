@@ -4,7 +4,7 @@ import com.namazed.Person;
 import java.util.Comparator;
 
 /**
- * Created by Namazed on 27.02.2016.
+ * Created by Namazed.
  */
 public class ComparatorPersonsFirstName implements Comparator<Person>{
     @Override

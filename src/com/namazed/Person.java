@@ -1,15 +1,15 @@
 package com.namazed;
 
 /**
- * Created by Namazed on 27.02.2016.
+ * Created by Namazed.
  */
 public class Person {
     String firstName;
     String lastName;
     int age;
 
-    Person(String n, String lN, int a) {
-        firstName = n;
+    Person(String fN, String lN, int a) {
+        firstName = fN;
         lastName = lN;
         age = a;
     }

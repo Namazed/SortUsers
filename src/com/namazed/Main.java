@@ -20,7 +20,6 @@ public class Main {
         System.out.println("Persons were loaded.\n" +
                 "App was started. Enter '--stop' to exit.\n" +
                 "Enter one of these commands '-f' '-l' '-a'...");
-
         scanCommands();
     }
 
