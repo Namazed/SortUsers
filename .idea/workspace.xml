@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962f5794-576c-4119-a8d4-2026eb3d3185" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsAge.java" afterPath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsAge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsFirstName.java" afterPath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsFirstName.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsLastName.java" afterPath="$PROJECT_DIR$/src/com/namazed/comparator/ComparatorPersonsLastName.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/namazed/Main.java" afterPath="$PROJECT_DIR$/src/com/namazed/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/namazed/Person.java" afterPath="$PROJECT_DIR$/src/com/namazed/Person.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SortUsers.iws" />
@@ -32,8 +28,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/namazed/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6274165">
-              <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.80667835">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -395,7 +391,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456549094197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version 1.0">
+      <created>1456552902979</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456552902979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -496,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/namazed/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6274165">
-          <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.80667835">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

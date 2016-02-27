@@ -15,7 +15,7 @@ public class Main {
     public static ArrayList<Person> personList = new ArrayList<>();
 
     public static void main(String[] args) {
-        System.out.println("Persons loading...\n");
+        System.out.println("Persons loading...");
         loadingPersons();
         System.out.println("Persons were loaded.\n" +
                 "App was started. Enter '--stop' to exit.\n" +
@@ -44,6 +44,7 @@ public class Main {
                         outputPersonList();
                         break;
                     case "--stop":
+                        System.out.println("App was stopped");
                         break out;
                     default:
                         System.out.println("Unknown command.\n" +
@@ -75,6 +76,7 @@ public class Main {
         for (Person person : personList) {  // Output list, after sort
             System.out.println(person.toString());
         }
+        System.out.println("Enter one of these commands '-f' '-l' '-a'...");
     }
 
 
