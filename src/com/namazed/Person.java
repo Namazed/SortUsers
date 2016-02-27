@@ -4,18 +4,18 @@ package com.namazed;
  * Created by Namazed on 27.02.2016.
  */
 public class Person {
-    String name;
+    String firstName;
     String lastName;
     int age;
 
     Person(String n, String lN, int a) {
-        name = n;
+        firstName = n;
         lastName = lN;
         age = a;
     }
 
-    public String getName() {
-        return name;
+    public String getFirstName() {
+        return firstName;
     }
 
     public String getLastName() {
@@ -24,5 +24,10 @@ public class Person {
 
     public int getAge() {
         return age;
+    }
+
+    @Override
+    public String toString() {
+        return  firstName + " " + lastName + " " + age;
     }
 }
